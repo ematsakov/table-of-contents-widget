@@ -1,0 +1,43 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.widget.widget_table-of-contents-widget {
+    display: none;
+}
+.table-of-contents-widget-container a {
+    text-decoration: none;
+}
+
+.table-of-contents-widget-container h1,
+.table-of-contents-widget-container h2,
+.table-of-contents-widget-container h3,
+.table-of-contents-widget-container h4,
+.table-of-contents-widget-container h5,
+.table-of-contents-widget-container h6 {
+    font-weight: normal;
+}
+
+.table-of-contents-widget-container h1 {
+    font-size: 1.25rem;
+}
+.table-of-contents-widget-container h2 {
+    font-size: 1.125rem;
+}
+.table-of-contents-widget-container h3 {
+    font-size: 1rem;
+    padding-left: 0.75rem;
+}
+.table-of-contents-widget-container h4 {
+    font-size: 0.875rem;
+    padding-left: 1rem;
+}
+.table-of-contents-widget-container h5 {
+    font-size: 0.875rem;
+    padding-left: 1rem;
+}
+.table-of-contents-widget-container h6 {
+    font-size: 0.875rem;
+    padding-left: 1rem;
+}
